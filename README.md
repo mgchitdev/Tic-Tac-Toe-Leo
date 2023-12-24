@@ -1,6 +1,6 @@
 ## Summary
 
-We can play a standard game of Tic-Tac-Toe in Leo.
+We can play a standard game of Tic-Tac-Toe game in Leo.
 
 ⭕ ❕ ⭕ ❕ ❌
 
